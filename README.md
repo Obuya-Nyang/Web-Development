@@ -1,1 +1,1 @@
-This repo has web development projects
+This repo has web development projects in python fastapi framework
